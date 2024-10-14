@@ -27,7 +27,7 @@
     "@types/diffable-html": "^5.0.2",
     "@types/node": "^22.7.5",
     "@types/react": "^18.3.11",
-    "cheerio": "^1.0.0-rc.12",
+    "cheerio": "^1.0.0",
     "concurrently": "^9.0.1",
     "diffable-html": "^5.0.0",
     "eslint": "^8.57.0",
